@@ -1,6 +1,5 @@
 {
-  "name": "begin-app",
-  "version": "0.0.0",
+    "name": "covered-call-planner",
     "version": "0.0.0",
     "description": "Deno app for planning monthly covered calls.",
     "scripts": {

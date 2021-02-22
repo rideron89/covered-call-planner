@@ -1,5 +1,5 @@
 @app
-begin-app
+covered-call-planner
 
 @http
 get /
